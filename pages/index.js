@@ -4,7 +4,7 @@ import Layout from "../components/Layout"
 export default function index() {
 	return (
 		<Layout>
-			<h1>DJ Events</h1>
+			<h1>Home</h1>
 		</Layout>
 	)
 }
